@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls_and_Cows.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls_and_Cows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Bulls_and_Cows.Problems-Check_sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Bulls_and_Cows.Problems-Check_sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Bulls_and_Cows.Problems-Check_sudoku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Bulls_and_Cows.Problems-Check_sudoku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Bulls_and_Cows.Problems-Check_sudoku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Bulls_and_Cows.Problems-Check_sudoku.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Bulls_and_Cows.Problems-Heron's_formula.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Bulls_and_Cows.Problems-Heron's_formula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Bulls_and_Cows.Problems-Heron's_formula.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Bulls_and_Cows.Problems-Heron's_formula.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Bulls_and_Cows.Problems-Heron's_formula.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Bulls_and_Cows.Problems-Heron's_formula.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Bulls_and_Cows.Problems-Pow.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Bulls_and_Cows.Problems-Pow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Bulls_and_Cows.Problems-Pow.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Bulls_and_Cows.Problems-Pow.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pow/Bulls_and_Cows.Problems-Pow.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pow/Bulls_and_Cows.Problems-Pow.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Bulls_and_Cows.Problems-Sorting_arrays.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Bulls_and_Cows.Problems-Sorting_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Bulls_and_Cows.Problems-Sorting_arrays.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Bulls_and_Cows.Problems-Sorting_arrays.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Bulls_and_Cows.Problems-Sorting_arrays.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Bulls_and_Cows.Problems-Sorting_arrays.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Bulls_and_Cows.Problems-The_angle_between_vectors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Bulls_and_Cows.Problems-The_angle_between_vectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Bulls_and_Cows.Problems-The_angle_between_vectors.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Bulls_and_Cows.Problems-The_angle_between_vectors.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Bulls_and_Cows.Problems-The_angle_between_vectors.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Bulls_and_Cows.Problems-The_angle_between_vectors.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Bulls_and_Cows.util.test.iml" />
+    </modules>
+  </component>
+</project>
