@@ -11,20 +11,36 @@ public class Main {
 
         boolean correctDigits = false;
         int digits = 0;
+        String input = "";
 
         while (!correctDigits) {
-            digits = scanner.nextInt();
+            input = scanner.nextLine();
 
-            if (digits > 10) {
-                System.out.println("Error: can't generate a secret number with a length of 11 because there aren't enough" +
-                        "digits. Please try again.");
+            if (input.length() > 2) {
+                System.out.printf("Error: %s isn't a valid number", input);
+                System.exit(0);
+            } else if (Integer.parseInt(input) > 36 || Integer.parseInt(input) == 0) {
+                System.out.printf("Error: can't generate a secret number with a length of %s because there aren't enough " +
+                    "digits.", input);
+                System.exit(0);
             } else {
                 correctDigits = true;
+                digits = Integer.parseInt(input);
             }
         }
 
         System.out.println("Input the number of possible symbols in the code:");
         int range = scanner.nextInt();
+
+        if (digits > range){
+            System.out.printf("Error: it is not possible to generate a code with a length of %d with %d unique symbols",
+                    digits, range);
+            System.exit(0);
+        } else if (range > 36) {
+            System.out.printf("Error: maximum number of possible symbols in the code is 36 (0-9, a-z)");
+            System.exit(0);
+        }
+
         scanner.nextLine();
 
         char[] secretCode = generateSecretNumber(digits, range);

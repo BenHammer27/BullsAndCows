@@ -409,22 +409,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/53/stages/293/implement#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #4
-
-    The testing system waited for a error message (the message should contain a word &quot;error&quot;).
-
-    Please find below the output of your program during this failed test.
-    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
-
-    ---
-
-    Please, enter the secret code&#39;s length:
-    &gt; 11
-    Error: can&#39;t generate a secret number with a length of 11 because there aren&#39;t enoughdigits. Please try again.
-    &gt; 10
-    Input the number of possible symbols in the code:
-  time: Mon, 14 Dec 2020 16:27:51 UTC
+  message: Congratulations!
+  time: Wed, 16 Dec 2020 10:04:20 UTC
 record: -1
